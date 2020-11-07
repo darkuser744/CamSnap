@@ -7,8 +7,8 @@ $ cd CamSnap <br>
 $ chmod +x * <br>
 $ bash CamSnap.sh <br>
 # Note(CareFully):
-<-> read the instructions carefully that display in the script. <-> <br>
-<-> OtherWhise Mail Will Not Reach To You.Due To Google Policy. <-> <br>
+[+] Read The Instructions Carefully That Display In The Script. [+] <br>
+[+] OtherWhise Mail Will Not Reach To You.Due To Google Policy. [+] <br>
 # About CamSnap Payload
 (+) Undetectable --> (100%). <br>
 (+) SampleFile(Tested Against 26 Antiviruses) : https://antiscan.me/images/result/oMptP1pV7KYl.png <br>
