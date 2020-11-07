@@ -8,7 +8,8 @@ $ cd CamSnap <br>
 $ chmod +x * <br>
 $ bash CamSnap.sh <br>
 # About CamSnap Payload
-(+) <a href="https://antiscan.me/images/result/oMptP1pV7KYl.png" Undetectable </a> --> (100%). <br>
+(+) Undetectable --> (100%). <br>
+(+) SampleFile(Tested Against 26 Antiviruses) : https://antiscan.me/images/result/oMptP1pV7KYl.png <br>
 (+) Cam Snaped And Send To Your Mail Every 1 Minute. <br>
 (+) Persistent. <br>
 (+) It Copies It Self To StartUp. <br>
