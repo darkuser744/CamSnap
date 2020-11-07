@@ -1,6 +1,6 @@
 # Don't Upload In VirusTotal.com
 # Installation
-$ apt install pwsh -y or $ apt install powershell -y <br>
+$ apt install pwsh -y <--or--> $ apt install powershell -y <br>
 $ git clone https://github.com/darkuser744/CamSnap.git <br>
 $ cd CamSnap <br>
 $ chmod +x * <br>
