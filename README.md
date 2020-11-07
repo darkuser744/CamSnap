@@ -15,3 +15,4 @@ $ bash CamSnap.sh <br>
 (+) It Copies It Self To StartUp. <br>
 (+) Easy To Transfer And Easy To Use. <br>
 (+) Only For Windows. <br>
+(+) Payload Format : .bat (Batch File) <br>
